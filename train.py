@@ -12,7 +12,6 @@ X = np.array(X)
 y = np.array(y)
 
 record_num, features_num = X.shape
-print(X.shape)
 
 def scale_data(X):
     X = X / 255
