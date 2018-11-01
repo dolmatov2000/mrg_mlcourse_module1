@@ -2,7 +2,7 @@
 machine learning mail.ru course
              
 Вектор весов получен при iter_num = 20000, learning_rate=0.03             
-Результаты на train:             
+Результаты на train:        
                  precision    recall  f1-score   support
 
           0       0.94      0.94      0.94      5923
@@ -18,7 +18,7 @@ machine learning mail.ru course
 
 avg / total       0.87      0.85      0.85     60000
 
-Результаты на test: 
+Результаты на test:
                 precision    recall  f1-score   support
 
           0       0.94      0.95      0.95       980
